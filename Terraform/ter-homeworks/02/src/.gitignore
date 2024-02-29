@@ -16,4 +16,4 @@ Terraform/ter-homeworks/02/src/keys/authorized_key.json
 /keys/authorized_key.json
 ./keys/
 /keys/
-terraform.tfvars
+yc_terra
